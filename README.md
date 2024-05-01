@@ -13,14 +13,14 @@
     - If a friend has paid more than their share, the difference will be displayed as Balance indicating how much they are owed or owe.
 
 ## Features
-### Add Friends 
-  - Maintain a list of friends you want to split expenses with.
-### Add Food Costs
-  -  Easily input the cost of food items to be split.
-### Automatic Calculation
-  - Automatic Calculation: The app calculates and updates how much each friend owes or is owed based on the entered food costs.
-### Clear and Reset
-  -  Clear the list of friends and reset all expenses to start fresh.
+  - Add Friends 
+    - Maintain a list of friends you want to split expenses with.
+  - Add Food Costs
+    - Easily input the cost of food items to be split.
+  - Automatic Calculation
+    -  The app calculates and updates how much each friend owes or is owed based on the entered food costs
+  - Clear and Reset
+    - Clear the list of friends and reset all expenses to start fresh.
 
 # Getting Started with Create React App
 
@@ -63,35 +63,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 # Eat-n-Split
 
