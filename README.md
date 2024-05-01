@@ -1,3 +1,27 @@
+# Eat and Split React App
+### Welcome to the Eat and Split React project! This app helps you manage shared food expenses among friends by splitting the costs evenly. You can maintain a list of friends, add food costs, and track who owes what for a meal.
+
+## Usage
+  - Adding Friends
+    - Click on the Add Friend button to add a new friend to the list.
+    - Enter the name of the friend in the input field and click Add.
+  - Adding Food Costs
+    - Enter the total cost of the food you ordered into the Food Cost input field.
+    - The app will automatically split this cost evenly among all the friends.
+  - Viewing Split Costs
+    - Each friend's share of the total cost will be displayed under the Friends Owe section.
+    - If a friend has paid more than their share, the difference will be displayed as Balance indicating how much they are owed or owe.
+
+## Features
+### Add Friends 
+  - Maintain a list of friends you want to split expenses with.
+### Add Food Costs
+  -  Easily input the cost of food items to be split.
+### Automatic Calculation
+  - Automatic Calculation: The app calculates and updates how much each friend owes or is owed based on the entered food costs.
+### Clear and Reset
+  -  Clear the list of friends and reset all expenses to start fresh.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,7 +92,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Eat-n-Split
-# Eat-n-Split
-# Eat-n-Split
-# Eat-n-Split
+
