@@ -1,5 +1,5 @@
 # Eat and Split React App
-### Welcome to the Eat and Split React project! This app helps you manage shared food expenses among friends by splitting the costs evenly. You can maintain a list of friends, add food costs, and track who owes what for a meal.
+ Welcome to the Eat and Split React project! This app helps you manage shared food expenses among friends by splitting the costs evenly. You can maintain a list of friends, add food costs, and track who owes what for a meal.
 
 ## Usage
   - Adding Friends
